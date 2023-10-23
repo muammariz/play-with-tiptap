@@ -1,6 +1,6 @@
 Playing With Tiptap Editor.
 
-- Vanilla JS
+- Nextjs
 - Tailwind
 - Tiptap
 - Slash Command for Editor
